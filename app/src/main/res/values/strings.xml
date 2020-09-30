@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TheMovieDB</string>
+    <string name="title">Title</string>
+    <string name="poster_path">Poster Path</string>
+    <string name="plot">Plot Synopsis</string>
+    <string name="rating">User Rating</string>
+    <string name="release">Release Date</string>
+    <string name="user_rating">User Rating</string>
+    <string name="plot_synopsis">Plot Synopsis</string>
+    <string name="release_date">Release Date</string>
+</resources>
